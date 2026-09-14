@@ -1,6 +1,6 @@
 # issueLogUpdate
 
-本仓库只用于存放 @记录助手 的自动更新产物，源码在 keshuishiliu/issueLog。
+本仓库只用于存放 @记录助手 的自动更新产物。
 
 每个 release 包含三个资产：
 
